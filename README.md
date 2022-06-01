@@ -4,8 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaxdm75/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-61798822a/)
 
-![Rafael Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantos22&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantos22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSantos22&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSantos22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
