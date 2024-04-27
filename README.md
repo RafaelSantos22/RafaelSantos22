@@ -37,8 +37,8 @@ O GoFinance é uma aplicação web para ajudar os usuários a gerenciar suas tra
 Ele oferece uma interface simples e intuitiva para que os usuários possam adicionar, visualizar e gerenciar suas transações financeiras. Ele exibe um resumo das entradas, saídas e saldo geral, proporcionando uma visão rápida do estado financeiro.
 
 ## Layout
-<img src="./src/assets/cadastro.png">
-<img src="./src/assets/login.png">
+![cadastro](https://github.com/RafaelSantos22/RafaelSantos22/assets/98282656/4553891b-5ccd-4112-ae6a-10f8b8387d3a)
+![login](https://github.com/RafaelSantos22/RafaelSantos22/assets/98282656/f9dc79de-f8f3-4541-a4b8-804b856f7d8e)
 
 ## Recursos
 
